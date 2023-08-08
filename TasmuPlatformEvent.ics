@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Baghdad
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Baghdad
+X-LIC-LOCATION:Asia/Baghdad
+BEGIN:STANDARD
+TZNAME:+03
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230722T122321Z
+UID:1690028507781-68196@ical.marudot.com
+DTSTART;TZID=Asia/Baghdad:20230823T120000
+DTEND;TZID=Asia/Baghdad:20230823T120000
+SUMMARY:From Data Islands to Collaborative Insights: Building a Culture of Data Collaboration
+URL:https://helloplatform.tasmu.gov.qa/lp-form-test/
+DESCRIPTION:Explore the transformative power of data collaboration and cultivate a culture of collaborative insights.\n\nThis event\, organised by the TASMU Platform in partnership with Microsoft\, addresses one of the biggest challenges faced by organisations in today's interconnected world - unifying fragmented data and harnessing the collective strength of shared information.\n\nThrough expert talks\, real-world examples from Qatar that inspire\, and interactive sessions\, our esteemed speakers will delve into strategies that foster a culture of data collaboration\, driving innovation\, economic growth\, and social impact.\n\nJoin us in breaking down data silos and cultivating a thriving culture of data collaboration for mutual benefit.\n\nThis event will be conducted in English.\n
+LOCATION:Doha Qatar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:From Data Islands to Collaborative Insights: Building a Culture of Data Collaboration
+TRIGGER:-P2D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
